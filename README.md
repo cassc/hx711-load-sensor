@@ -2,15 +2,15 @@
 
 # Connection
 
-| ---                   | ----          | ------ |
-| 200KG Load Sensor bar | Sensor Module | ESP32  |
-| `E+`                  | White         |        |
-| `E-`                  | Black         |        |
-| `A-`                  | Red           |        |
-| `A+`                  | Green         |        |
-|                       | `VCC`         | 3.3V   |
-|                       | `DT`          | GPIO23 |
-|                       | `SCK`         | GPIO19 |
+| 200KG Load Sensor bar | Sensor Module | ESP32    |
+| -------               | ----          | ------   |
+| `E+`                  | White         |          |
+| `E-`                  | Black         |          |
+| `A-`                  | Red           |          |
+| `A+`                  | Green         |          |
+|                       | `VCC`         | `3.3V`   |
+|                       | `DT`          | `GPIO23` |
+|                       | `SCK`         | `GPIO19` |
 
 
 
